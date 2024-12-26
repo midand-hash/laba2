@@ -17,5 +17,5 @@ if length <= 0 or width <= 0:
 area = length * width
 
 # Выводим результат
-print("Площадь прямоугольника:", area)
+print("Площадь:", area)
 
